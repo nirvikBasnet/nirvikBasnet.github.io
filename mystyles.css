@@ -275,9 +275,7 @@ header .footer-wave {
   position: relative;
   display: block;
   text-decoration: none;
-  margin: 60px;
-  padding: 30px;
-  height: calc(100% + 100px);
+  height: calc(50%);
 }
 
 .listar-features-design-2 .listar-feature-item-wrapper {
