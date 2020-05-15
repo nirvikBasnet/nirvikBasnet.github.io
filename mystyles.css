@@ -12,6 +12,12 @@ body {
   line-height: 1.8;
   letter-spacing: 0.025em;
 }
+#covid{
+  position: fixed;
+  top: 70%;
+  left: 46%;
+
+}
 .header{
     align-items: center;
 }
